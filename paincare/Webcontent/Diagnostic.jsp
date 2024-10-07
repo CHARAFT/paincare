@@ -5,6 +5,7 @@
 <html>
 <head>
     <title>Diagnostic Form</title>
+    <!-- style -->
     <!-- Add Bootstrap CSS link for styling -->
   
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
